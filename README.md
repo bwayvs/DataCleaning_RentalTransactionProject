@@ -80,6 +80,16 @@ SELECT 'Total' as "TRANSACTION_ACCOUNT", ...
 UNION ALL
 ...
 ```
+## Authors
+
+- Veronica Broadway (https://bwayvs.github.io/Professional_Portfolio/)
+
 
 ## 🚀 About Me
 I'm Veronica, a results-driven Data Analyst with expertise in SAP and process improvement. With a background in translating complex requirements into actionable insights, I leverage SQL, data visualization tools, and Agile methodologies to optimize supply chains and drive business decisions. My passion lies in turning data into meaningful business strategies, ensuring organizational alignment, and fostering cross-functional collaboration.
+
+
+## 🔗 LinkedIn Profile
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronicabroadway/)
+
+
