@@ -1,4 +1,4 @@
-# README: SQL Financial Reporting Query
+# README: SQL Rental Transaction and Financial Reporting Query
 
 This document provides an overview of SQL queries I designed for financial reporting, demonstarting a myriad of SQL skills. This README highlights some of the core competencies embedded in the code. To see the entire code, please see the subsequent files.
 
